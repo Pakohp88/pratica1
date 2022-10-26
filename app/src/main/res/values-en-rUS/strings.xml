@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practice 1</string>
+    <string name="programa">Area calculator</string>
+    <string name="lbSpinner">Select a figure</string>
+    <string name="lbbtn">Calculate</string>
+    <string name="textHint1">Insert the height (h)</string>
+    <string name="textHint2">Insert  the base (b)</string>
+    <string name="lbbtnFin">Finish operation</string>
+    <string name="result">¡The area of %1$s is %2$d square centimeters!</string>
+    <string name="triangulo">Triangle</string>
+    <string name="elipse">Ellipse</string>
+    <string name="rectangulo">Rectangle</string>
+</resources>

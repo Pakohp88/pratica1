@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cálculo de área</string>
+    <string name="programa">Calculadora de Area</string>
+    <string name="version" translatable="false">Version 1.0</string>
+    <string name="autor" translatable="false">Francisco Hernández</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="lbSpinner">Selecciona una Figura</string>
+    <string name="lbbtn">Calcular</string>
+    <string name="textHint1">Inserta la altura (h)</string>
+    <string name="textHint2">Inserta la base (b)</string>
+    <string name="lbbtnFin">Finalizar Operación</string>
+    <string name="result">¡El área del %1$s es de %2$f centimetros cuadrados!</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="elipse">Elipse</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string-array name="operaciones">
+        <item>Rectangulo</item>
+        <item>Triangulo</item>
+        <item>Elipse</item>
+    </string-array>
+</resources>
